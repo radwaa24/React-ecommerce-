@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/radwaa24/React-ecommerce-.git/static/css/main.c5eae15d.css",
-    "main.js": "/radwaa24/React-ecommerce-.git/static/js/main.047a313a.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/radwaa24/React-ecommerce-.git/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/radwaa24/React-ecommerce-.git/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/radwaa24/React-ecommerce-.git/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/radwaa24/React-ecommerce-.git/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/radwaa24/React-ecommerce-.git/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/radwaa24/React-ecommerce-.git/index.html",
-    "main.c5eae15d.css.map": "/radwaa24/React-ecommerce-.git/static/css/main.c5eae15d.css.map",
-    "main.047a313a.js.map": "/radwaa24/React-ecommerce-.git/static/js/main.047a313a.js.map"
+    "main.css": "/React-ecommerce-/static/css/main.ab902575.css",
+    "main.js": "/React-ecommerce-/static/js/main.047a313a.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/React-ecommerce-/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/React-ecommerce-/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/React-ecommerce-/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/React-ecommerce-/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/React-ecommerce-/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/React-ecommerce-/index.html",
+    "main.ab902575.css.map": "/React-ecommerce-/static/css/main.ab902575.css.map",
+    "main.047a313a.js.map": "/React-ecommerce-/static/js/main.047a313a.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5eae15d.css",
+    "static/css/main.ab902575.css",
     "static/js/main.047a313a.js"
   ]
 }
